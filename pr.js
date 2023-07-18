@@ -1,1 +1,1 @@
-console.log("rumah aku")
+console.log("rumahku")
