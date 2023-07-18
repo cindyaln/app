@@ -1,1 +1,1 @@
-console.log("sekolah")
+console.log("sekolah assalaam")
